@@ -1,0 +1,8 @@
+streamlit
+langchain>=1.0
+langchain-core
+langchain-openai
+tavily-python
+beautifulsoup4
+requests
+python-dotenv
